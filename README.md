@@ -1,3 +1,3 @@
 # rakshash.github.io
 
-http://eyeriss.mit.edu/#papers
+MIT Eyeriss[http://eyeriss.mit.edu/]
